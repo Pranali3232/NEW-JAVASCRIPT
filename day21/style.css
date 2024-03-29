@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+#year{
+    font-size: 54px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+ul{
+    list-style: none;
+}
+ul li{
+    padding: 10px;
+    border: 1px solid black;
+}
+#li1{
+    background-color: greenyellow;
+}
+#li2{
+    background-color: yellow;
+
+}
+#li3{
+    background-color: orangered;
+}
+.day-time{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    
+}
+#current-time{
+    font-size:14px 
+    
+}

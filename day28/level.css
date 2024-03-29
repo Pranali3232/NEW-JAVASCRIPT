@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+#inputs{
+    text-align: center;
+}
+.input{
+    padding: 15px;
+    margin-left: 4px;
+    border: 1px solid lightpink;
+    /* padding-bottom: 56px; */
+    /* border-color: lightpink; */
+}
+button{
+    background-color: lightcoral;
+    color: #fff;
+    border-radius: 50%;
+    border: 1px solid lightpink;
+
+}
+
+table .heading{
+     display: flex;
+    justify-content: center;
+    background-color: chocolate;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+}
+.addedlist{
+    display: flex;
+    background-color: pink;
+    margin-left: 490px;
+    margin-right: 487px;
+    /* padding-top: 20px; */
+    margin-top: 32px;
+}
+p{
+    padding-left: 89px;
+}
+#btn{
+    margin-left: 6cqi;
+    border: 1px solid transparent;
+    border-radius: 50%;
+}

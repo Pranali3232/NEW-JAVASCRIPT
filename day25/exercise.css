@@ -1,0 +1,27 @@
+#text{
+    display: grid;
+    justify-content: center;
+    color: orange;
+}
+#text2{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-size: 54px;
+    letter-spacing: 4px;
+}
+
+p{
+    text-align: center;
+    color: grey;
+    font-size: 23px;
+}
+
+#text2 h2{
+    background-color: orange;
+    font-size: 19px;
+    padding: 10px;
+    margin-left: 8px;
+}
+
